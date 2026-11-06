@@ -25,6 +25,7 @@ Sou Maria Cecília,
   <source media="(prefers-color-scheme: light)" srcset="https://githubusercontent.com">
   <img alt="github contribution grid snake animation" src="https://githubusercontent.com">
 </picture>
+ 
 </div>
 
 <div>
