@@ -20,7 +20,7 @@ Sou Maria Cecília,
 </div>
 
 <div align="center">
-  <img src="../CeciMaya/output/github-contribution-grid-snake.svg" alt="Animação da Cobrinha">
+  <img src="https://githubusercontent.com" alt="Animação da Cobrinha">
 </div>
 
 <div>
