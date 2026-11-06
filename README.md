@@ -34,10 +34,3 @@ Sou Maria Cecília,
   <img height="50em" src="https://jsdelivr.net" />
   <img height="50em" src="https://jsdelivr.net" />
 </div>
-
-  <img height="50em" src="https://jsdelivr.net" />
-  <img height="50em" src="https://jsdelivr.net" />
-  <img height="50em" src="https://jsdelivr.net" />
-  <img height="50em" src="https://jsdelivr.net" />
-  <img height="50em" src="https://jsdelivr.net" />
-</div>
