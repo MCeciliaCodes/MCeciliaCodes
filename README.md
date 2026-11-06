@@ -39,8 +39,11 @@ Sou Maria Cecília,
   <a href="[https://www.linkedin.com/in/maria-cecília-silva-37593632/-45875016a](https://www.linkedin.com/in/maria-cec%C3%ADlia-silva-37593632/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
    </div>
    <div>
-    
-   ![Animação da Cobrinha](https://githubusercontent.com)
 
-   
-   ![Snake animation](https://github.com/CeciMaya/CeciMaya/blob/output/github-contribution-grid-snake.svg)
+<div align="center">
+  <img
+    src="https://raw.githubusercontent.com/CeciMaya/CeciMaya/output/github-contribution-grid-snake.svg"
+    alt="GitHub Contribution Snake Animation"
+  />
+</div>
+
